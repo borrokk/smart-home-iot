@@ -6,15 +6,14 @@
 
 = Project: {Project}
 
-Describe your project
+Developed a smart room system comprising of password protected door lock, 
+automatic room lighting and smoke detector using Arduino and sensors
 
 == Step 1: Installation
-Please describe the steps to install this project.
-
-For example:
 
 1. Open this file
-2. Edit as you like
+2. Use it for making a smart room system, add or delete functionalities
+   by editing as you like
 3. Release to the World!
 
 == Step 2: Assemble the circuit
