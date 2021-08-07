@@ -1,10 +1,9 @@
-:Author: bambi_meg
-:Email: {AuthorEmail}
+:Author: borrokk
 :Date: 06/08/2021
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: {IoT Enabled Smart Room System}
 
 Developed a smart room system comprising of password protected door lock, 
 automatic room lighting and smoke detector using Arduino and sensors
